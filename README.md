@@ -1,0 +1,1 @@
+Simple js web-app where u can search for dog-images from an api. if a specific breed have sub-breeds it will ask for selecting that too.
